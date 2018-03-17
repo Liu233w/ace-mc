@@ -1,8 +1,8 @@
 Ace-evil-mc - Ace-mc with evil-mc support
 ===========================================
 
-[Ace-mc](https://github.com/mm--/ace-mc) can't work with [evil-mc](https://github.com/gabesoft/evil-mc). So I forked that project and make it. Now it works only under evil-mc, but not multiple-cursors.
+[Ace-mc](https://github.com/mm--/ace-mc) doesn't work with [evil-mc](https://github.com/gabesoft/evil-mc). So I forked it and added evil-mc support. Now it works only with evil-mc, but not multiple-cursors.
 
-Notice that this package isn't completed and has some bugs.
+Notice that this package still has some known bugs, which are listed in the [issues page](https://github.com/Liu233w/ace-evil-mc/issues).
 
-API is as same as ace-mc, I only made a few changes.
+The API is as same as which in ace-mc, I only made a few changes.
